@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dark Pattern Buster Hackathon 2023](https://github.com/ILNEKELASHENGINEER/Dark_Pattern)
 
-- 🌱 I’m currently learning **Spring, Devops**
+- 🌱 I’m currently learning **Spring, Devops, Networking (Advance)**
 
 - 👯 I’m looking to collaborate on **Open projects, Startup**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5417627318957727603](https://www.blogger.com/blog/posts/5417627318957727603)
 
-- 💬 Ask me about **Python, linux, Java, Js, IoT, Project Management**
+- 💬 Ask me about **Python, linux, Java, Js, IoT, Project Management, Networking, Cloud**
 
 - 📫 How to reach me **nekelash45@gmail.com**
 
