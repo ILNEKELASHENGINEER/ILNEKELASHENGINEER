@@ -19,8 +19,7 @@
 
 - 📫 How to reach me **nekelash45@gmail.com**
 
-- 📄 Know about my experiences [Click here to view my resume]([https://nekelash-resume.tiiny.site/](https://nekes3bucket.s3.amazonaws.com/21CSR125_NEKELASH_CSE.pdf))
-- 📄 Know about my experiences [https://nekelash-resume.tiiny.site/]([[https://nekelash-resume.tiiny.site/](https://nekes3bucket.s3.amazonaws.com/21CSR125_NEKELASH_CSE.pdf)](https://nekes3bucket.s3.amazonaws.com/21CSR125_NEKELASH_CSE.pdf))
+- 📄 Know about my experiences [https://nekelash-resume.tiiny.site/](https://nekelash-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
