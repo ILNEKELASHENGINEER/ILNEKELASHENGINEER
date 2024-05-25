@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dark Pattern Buster Hackathon 2023](https://github.com/ILNEKELASHENGINEER/Dark_Pattern)
 
-- 🌱 I’m currently learning **Spring, Devops, Networking (Advance)**
+- 🌱 I’m currently learning **Devops, Cloud (aws)**
 
 - 👯 I’m looking to collaborate on **Open projects, Startup**
 
