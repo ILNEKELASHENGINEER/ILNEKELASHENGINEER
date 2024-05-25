@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilnekelashengineer" alt="ilnekelashengineer" /></a> </p>
 
-- 🔭 I’m currently working on [Dark Pattern Buster Hackathon 2023](https://github.com/ILNEKELASHENGINEER/Dark_Pattern)
+- 🔭 Recent Done Project [Dark Pattern Buster Hackathon 2023](https://github.com/ILNEKELASHENGINEER/Dark_Pattern)
 
 - 🌱 I’m currently learning **Devops, Cloud (aws)**
 
