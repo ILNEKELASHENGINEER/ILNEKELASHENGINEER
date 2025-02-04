@@ -9,7 +9,7 @@ me on Youtube <a href = "https://www.youtube.com/@Nekes-ContainerizeCorner"> Cli
 
 - 🔭 Recent Done Project [Dark Pattern Buster Hackathon 2023](https://github.com/ILNEKELASHENGINEER/Dark_Pattern)
 
-- 🌱 I’m currently learning **Devops, Cloud (aws)**
+- 🌱 I’m currently working as intern at Uhnder inc and doing stuff on **Devops, Linux, Automation**
 
 - 👯 I’m looking to collaborate on **Open projects, Startup**
 
