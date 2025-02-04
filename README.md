@@ -21,7 +21,7 @@ me on Youtube <a href = "https://www.youtube.com/@Nekes-ContainerizeCorner"> Cli
 
 - 📫 How to reach me **nekelash45@gmail.com**
 
-- 📄 Know about my experiences [click me!!](https://nekes3bucket.s3.us-east-1.amazonaws.com/NEKELASH_IL_RESUME.pdf)
+- 📄 Know about my experiences [click here!🫸🏼](https://nekes3bucket.s3.us-east-1.amazonaws.com/NEKELASH_IL_RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
